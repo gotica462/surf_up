@@ -11,3 +11,14 @@ After doing our session queries using SQLite and transforming our data into a pd
 See results below.
 
 ![image](https://github.com/gotica462/surf_up/blob/main/JUNE-DECEMBER%20COMPARISON.png)
+
+Based on the results we can see that:
+
+
+
+-  The average temperature in June is abput 4 degrees more than in December, meaning that there is not much difference in temperature in those months.
+-   While The maximum temperatures in June (85°) and December (83°) are pretty much the same, the minimum temperatures does differ a little June is 64° while in December is 56°.
+-   The Standard Deviation in December is .5 higher than in June, meaning that there are more changes in temperature in December.
+
+## Summary
+
