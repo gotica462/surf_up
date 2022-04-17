@@ -22,3 +22,5 @@ Based on the results we can see that:
 
 ## Summary
 
+Based on our analyisis of the tempetatures of December in June the temperature factor is not a deterrent factor to go ahead with the Ice cream shop since the changes on such temperature are very little. 
+If we want to do a more complete analysis we could also look at the coldest and the hottest month of the year for that city and do a comparison between those two months.We also can do a querie on other factors, like precipitation, but also if we could get the data for the number of people visiting the island we could do an analysis based on that data and see if tourism is affected in any way by the months of the year.
